@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pymecloud.github.io/snippets-a0rzx4/sitemap.xml
